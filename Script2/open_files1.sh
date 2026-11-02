@@ -7,7 +7,7 @@
 #Autor: Miguel Rodríguez Reyes
 #Correo: alu0101794976@ull.edu.es
 #Fecha: 02/11/2026
-#Archivo myopening.sh
+#Archivo open_files1.sh
 export LC_ALL=C #Sort uniq y comm usen el mismo criterio de ordenacion
 
 #VARIABLES
