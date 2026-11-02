@@ -1,4 +1,13 @@
 #!/bin/bash
+#Universidad de La Laguna
+#Escuela Superior de Ingeniería y Tecnología
+#Grado en Ingeniería Informática
+#Asignatura: Sistemas Operativos 
+#Curso: 2º
+#Autor: Miguel Rodríguez Reyes
+#Correo: alu0101794976@ull.edu.es
+#Fecha: 02/11/2026
+#Archivo myopening.sh
 export LC_ALL=C #Sort uniq y comm usen el mismo criterio de ordenacion
 
 #VARIABLES
