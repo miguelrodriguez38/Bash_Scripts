@@ -98,6 +98,6 @@ Estos scripts forman una pequeña colección de herramientas de monitorización 
 - cuántos archivos están abiertos por cada usuario,
 - qué procesos tienen más ficheros abiertos,
 - qué procesos consumen más memoria,
-- y qué procesos o usuarios presentan más actividad de ficheros abiertos.
+- qué procesos o usuarios presentan más actividad de ficheros abiertos.
 
 En conjunto, son ejercicios prácticos para entender el uso de `lsof`, `ps`, `id`, `w` y filtros con Bash.
